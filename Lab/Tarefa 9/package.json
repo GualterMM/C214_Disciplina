@@ -1,0 +1,12 @@
+{
+  "name": "tarefa-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "carro_classe.js",
+  "scripts": {
+    "start": "node .\\index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
